@@ -1,0 +1,16 @@
+projet: 
+  type: website
+
+website:
+  title: "Website"
+  navbar:
+    left: 
+      - href:index.qmd
+      - text: Home
+
+format:
+  html: 
+    theme: darkly
+    toc: true
+
+editor: visual
